@@ -1,6 +1,4 @@
-﻿using FirstAPI.Data;
-using FirstAPI.Entity;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace FirstAPI.Controllers
@@ -9,22 +7,22 @@ namespace FirstAPI.Controllers
     [ApiController]
     public class CategoriesController : ControllerBase
     {
-        private readonly AppDbContext _context;
+        private readonly IRepository _repository;
 
-        public CategoriesController(AppDbContext context)
+        public CategoriesController(IRepository repository)
         {
-            _context = context;
+            _repository = repository;
         }
 
 
         [HttpGet]
-        public async Task<IActionResult> Get()
+        public async Task<IActionResult> Get(int page, int take = 3)
         {
-            var categories = await _context.Categories.ToListAsync();
+            var categories = await _repository.GetAll().ToListAsync();
 
             return StatusCode(StatusCodes.Status200OK, categories);
-            //return Ok(categories);
         }
+
 
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(int id)
@@ -34,7 +32,7 @@ namespace FirstAPI.Controllers
                 return BadRequest();
             }
 
-            Category category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+            Category category = await _repository.GetByIdAsync(id);
             if (category == null)
             {
                 return NotFound();
@@ -43,14 +41,21 @@ namespace FirstAPI.Controllers
             return StatusCode(StatusCodes.Status200OK, category);
         }
 
+
         [HttpPost]
-        public async Task<IActionResult> Create(Category category)
+        public async Task<IActionResult> Create([FromForm] CreateCategoryDTO categoryDTO)
         {
-            await _context.Categories.AddAsync(category);
-            await _context.SaveChangesAsync();
+            Category category = new()
+            {
+                Name = categoryDTO.Name,
+            };
+
+            await _repository.AddAsync(category);
+            await _repository.SaveChangeAsync();
 
             return StatusCode(StatusCodes.Status201Created, category);
         }
+
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
@@ -60,14 +65,14 @@ namespace FirstAPI.Controllers
                 return BadRequest();
             }
 
-            Category category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+            Category category = await _repository.GetByIdAsync(id);
             if (category == null)
             {
                 return NotFound();
             }
 
-            _context.Categories.Remove(category);
-            await _context.SaveChangesAsync();
+            _repository.Delete(category);
+            await _repository.SaveChangeAsync();
 
             return StatusCode(StatusCodes.Status204NoContent);
         }
@@ -80,7 +85,7 @@ namespace FirstAPI.Controllers
                 return BadRequest();
             }
 
-            Category category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+            Category category = await _repository.GetByIdAsync(id);
             if (category == null)
             {
                 return NotFound();
@@ -88,7 +93,8 @@ namespace FirstAPI.Controllers
 
             category.Name = name;
 
-            await _context.SaveChangesAsync();
+            _repository.Update(category);
+            await _repository.SaveChangeAsync();
 
             return StatusCode(StatusCodes.Status204NoContent);
         }

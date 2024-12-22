@@ -1,5 +1,4 @@
 
-using FirstAPI.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace FirstAPI
@@ -24,6 +23,9 @@ namespace FirstAPI
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSQL"));
             }
             );
+
+
+            builder.Services.AddScoped<IRepository, Repository>();
 
             var app = builder.Build();
 

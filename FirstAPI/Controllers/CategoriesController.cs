@@ -7,9 +7,9 @@ namespace FirstAPI.Controllers
     [ApiController]
     public class CategoriesController : ControllerBase
     {
-        private readonly IRepository _repository;
+        private readonly ICategoryRepository _repository;
 
-        public CategoriesController(IRepository repository)
+        public CategoriesController(ICategoryRepository repository)
         {
             _repository = repository;
         }
@@ -18,7 +18,9 @@ namespace FirstAPI.Controllers
         [HttpGet]
         public async Task<IActionResult> Get(int page, int take = 3)
         {
-            var categories = await _repository.GetAll().ToListAsync();
+            int skipValue = (page - 1) * take;
+
+            var categories = await _repository.GetAll(orderExpression: c => c.Id, skip: skipValue, take: take).ToListAsync();
 
             return StatusCode(StatusCodes.Status200OK, categories);
         }

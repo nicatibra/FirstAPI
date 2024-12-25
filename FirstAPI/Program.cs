@@ -1,5 +1,5 @@
-
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 
 namespace FirstAPI
 {
@@ -25,7 +25,18 @@ namespace FirstAPI
             );
 
 
-            builder.Services.AddScoped<IRepository, Repository>();
+            //
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
+
+            //Include Json ile islesin deye
+            builder.Services.AddControllers().AddJsonOptions(x =>
+                x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles
+                );
+
+
+
 
             var app = builder.Build();
 

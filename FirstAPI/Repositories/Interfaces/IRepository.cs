@@ -1,16 +1,26 @@
-﻿namespace FirstAPI.Repositories.Interfaces
+﻿using System.Linq.Expressions;
+
+namespace FirstAPI.Repositories.Interfaces
 {
-    public interface IRepository
+    public interface IRepository<T> where T : BaseEntity, new()
     {
-        IQueryable<Category> GetAll();
+        IQueryable<T> GetAll(
+            Expression<Func<T, bool>>? whereExpression = null,
+            Expression<Func<T, object>>? orderExpression = null,
+            int skip = 0,
+            int take = 0,
+            bool isDescending = false,
+            bool isTracking = false,
+            params string[]? includes
+            );
 
-        Task<Category> GetByIdAsync(int id);
+        Task<T> GetByIdAsync(int id);
 
-        Task AddAsync(Category category);
+        Task AddAsync(T entity);
 
-        void Delete(Category category);
+        void Delete(T entity);
 
-        void Update(Category category);
+        void Update(T entity);
 
         Task<int> SaveChangeAsync();
 

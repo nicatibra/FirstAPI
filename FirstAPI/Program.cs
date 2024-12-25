@@ -28,9 +28,12 @@ namespace FirstAPI
 
             //
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddScoped<IColorRepository, ColorRepository>();
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
             builder.Services.AddScoped<ICategoryService, CategoryService>();
+            builder.Services.AddScoped<IColorService, ColorService>();
+
 
 
             //Include Json ile islesin deye

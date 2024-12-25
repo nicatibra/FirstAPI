@@ -3,24 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\color\\getcolordetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\color\\getcolordetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\color\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\color\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\color\\getcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\color\\getcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\color\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\color\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +87,8 @@
       "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,16 +99,8 @@
       "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D840DF4-CC7F-4E5E-93B4-51E1561C6E11}|FirstAPI\\FirstAPI.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\api\\firstapi\\firstapi\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,17 +118,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 280,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Program.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Program.cs",
               "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Program.cs",
               "RelativeToolTip": "FirstAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T17:01:07.551Z",
               "IsPinned": true,
@@ -112,21 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "FirstAPI\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T17:03:46.294Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Implementations\\Repository.cs",
@@ -135,12 +145,11 @@
               "ViewState": "AgIAAEAAAAAAAAAAAAA0wFsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T20:07:05.635Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
@@ -149,32 +158,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T20:04:01.987Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Services\\Implementations\\CategoryService.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Services\\Implementations\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Services\\Implementations\\CategoryService.cs",
-              "RelativeToolTip": "FirstAPI\\Services\\Implementations\\CategoryService.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAIwFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:08:27.666Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Services\\Interfaces\\ICategoryService.cs",
               "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeToolTip": "FirstAPI\\Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T20:08:25.797Z",
               "IsPinned": true,
@@ -182,29 +176,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
-              "RelativeToolTip": "FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:43:41.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GetProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
-              "RelativeToolTip": "FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Title": "IColorService.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Services\\Interfaces\\IColorService.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Services\\Interfaces\\IColorService.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Services\\Interfaces\\IColorService.cs",
+              "RelativeToolTip": "FirstAPI\\Services\\Interfaces\\IColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:32:41.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T21:02:25.166Z"
             },
             {
               "$type": "Document",
@@ -214,126 +194,122 @@
               "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\GetCategoryDetailDTO.cs",
               "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Category\\GetCategoryDetailDTO.cs",
               "RelativeToolTip": "FirstAPI\\DTOs\\Category\\GetCategoryDetailDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:09:30.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
-              "RelativeToolTip": "FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:32:25.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "FirstAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\appsettings.json",
-              "RelativeToolTip": "FirstAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-25T20:23:04.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Implementations\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\CategoryRepository.cs",
-              "RelativeToolTip": "FirstAPI\\Repositories\\Implementations\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:28:15.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "FirstAPI\\Repositories\\Interfaces\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:27:51.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Implementations\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\ProductRepository.cs",
-              "RelativeToolTip": "FirstAPI\\Repositories\\Implementations\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:25:10.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "FirstAPI\\Repositories\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:24:27.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Entity\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Entity\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Entity\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "FirstAPI\\Entity\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T06:52:47.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Entity\\Product.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Entity\\Product.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Entity\\Product.cs",
-              "RelativeToolTip": "FirstAPI\\Entity\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T14:08:24.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\GlobalUsings.cs",
-              "RelativeToolTip": "FirstAPI\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T21:22:50.592Z"
+              "WhenOpened": "2024-12-25T20:09:30.73Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "GetColorDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Color\\GetColorDetailDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Color\\GetColorDetailDTO.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Color\\GetColorDetailDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Color\\GetColorDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:03:52.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorsController.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Controllers\\ColorsController.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Controllers\\ColorsController.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Controllers\\ColorsController.cs",
+              "RelativeToolTip": "FirstAPI\\Controllers\\ColorsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:01:07.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "FirstAPI\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwFYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:08:27.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "FirstAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:03:46.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FirstAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:06:35.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Services\\Implementations\\ColorService.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Services\\Implementations\\ColorService.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Services\\Implementations\\ColorService.cs",
+              "RelativeToolTip": "FirstAPI\\Services\\Implementations\\ColorService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwFgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:08:04.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateColorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Color\\UpdateColorDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Color\\UpdateColorDTO.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Color\\UpdateColorDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Color\\UpdateColorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:57:43.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetColorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Color\\GetColorDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Color\\GetColorDTO.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Color\\GetColorDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Color\\GetColorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:57:07.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateColorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Color\\CreateColorDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Color\\CreateColorDTO.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Color\\CreateColorDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Color\\CreateColorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:55:40.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "CreateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
               "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
@@ -341,12 +317,59 @@
               "RelativeToolTip": "FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:07:45.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T18:07:45.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:43:41.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:32:25.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Entity\\Color.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Entity\\Color.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Entity\\Color.cs",
+              "RelativeToolTip": "FirstAPI\\Entity\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:55:07.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:32:41.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Entity\\Category.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Entity\\Category.cs",
@@ -358,15 +381,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "FirstAPI\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\appsettings.json",
+              "RelativeToolTip": "FirstAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T20:23:04.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "FirstAPI\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T17:06:35.083Z"
+              "WhenOpened": "2024-12-25T07:25:10.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "FirstAPI\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:24:27.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Entity\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Entity\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Entity\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "FirstAPI\\Entity\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:52:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\Entity\\Product.cs",
+              "RelativeToolTip": "FirstAPI\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:08:24.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\API\\FirstAPI\\FirstAPI\\GlobalUsings.cs",
+              "RelativeToolTip": "FirstAPI\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:22:50.592Z"
             }
           ]
         }

@@ -1,3 +1,4 @@
+using FirstAPI.Services.Implementations;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
 
@@ -28,6 +29,7 @@ namespace FirstAPI
             //
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
 
 
             //Include Json ile islesin deye

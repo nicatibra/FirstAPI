@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace FirstAPI.Controllers
 {
@@ -8,21 +7,19 @@ namespace FirstAPI.Controllers
     public class CategoriesController : ControllerBase
     {
         private readonly ICategoryRepository _repository;
+        private readonly ICategoryService _service;
 
-        public CategoriesController(ICategoryRepository repository)
+        public CategoriesController(ICategoryRepository repository, ICategoryService service)
         {
             _repository = repository;
+            _service = service;
         }
 
 
         [HttpGet]
         public async Task<IActionResult> Get(int page, int take = 3)
         {
-            int skipValue = (page - 1) * take;
-
-            var categories = await _repository.GetAll(orderExpression: c => c.Id, skip: skipValue, take: take).ToListAsync();
-
-            return StatusCode(StatusCodes.Status200OK, categories);
+            return Ok(await _service.GetAllAsync(page, take));
         }
 
 
@@ -40,6 +37,7 @@ namespace FirstAPI.Controllers
                 return NotFound();
             }
 
+            return await _service.GetByIdAsync(id)
             return StatusCode(StatusCodes.Status200OK, category);
         }
 

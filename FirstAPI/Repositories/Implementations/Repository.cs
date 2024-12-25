@@ -14,8 +14,6 @@ namespace FirstAPI.Repositories.Implementations
             _table = context.Set<T>();
         }
 
-
-
         public IQueryable<T> GetAll(
             Expression<Func<T, bool>>? whereExpression = null,
             Expression<Func<T, object>>? orderExpression = null,

@@ -1,6 +1,6 @@
 ﻿namespace FirstAPI.DTOs
 {
-    public class GetCategoryDTO
+    public record GetCategoryDTO
     {
         public int Id { get; set; }
 

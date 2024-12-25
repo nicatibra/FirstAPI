@@ -14,7 +14,7 @@ namespace FirstAPI.Repositories.Interfaces
             params string[]? includes
             );
 
-        Task<T> GetByIdAsync(int id);
+        Task<T> GetByIdAsync(int id, params string[] includes);
 
         Task AddAsync(T entity);
 
@@ -23,6 +23,8 @@ namespace FirstAPI.Repositories.Interfaces
         void Update(T entity);
 
         Task<int> SaveChangeAsync();
+
+        Task<bool> AnyAsync(Expression<Func<T, bool>> anyExpression);
 
     }
 }

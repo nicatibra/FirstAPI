@@ -54,22 +54,6 @@
   },
   {
     "ContainingType": "FirstAPI.Controllers.CategoriesController",
-    "Method": "Delete",
-    "RelativePath": "Categories/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "FirstAPI.Controllers.CategoriesController",
     "Method": "Update",
     "RelativePath": "Categories/{id}",
     "HttpMethod": "PUT",
@@ -82,9 +66,25 @@
         "IsRequired": true
       },
       {
-        "Name": "name",
+        "Name": "Name",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstAPI.Controllers.CategoriesController",
+    "Method": "Delete",
+    "RelativePath": "Categories/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
